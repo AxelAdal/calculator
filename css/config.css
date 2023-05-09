@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #fff;
+}
+html, body {
+
+    font-size: 10px;
+    font-family: 'Fraunces', serif;
+    background-color: #224870;
+    
+}
